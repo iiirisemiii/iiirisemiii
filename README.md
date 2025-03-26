@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Semi Kim, pursuing a bachelor's degree in economics and data sciences in University of Southern California (USC).
+- 👀 I’m looking for an internship with a dynamic company that will engage my diverse background and my aspiration in working in data analytic field.
+- 🌱 I’m currently learning statistical analysis and visualization skills primarily with R in my exchange semester at Sciences Po Paris.
+- ⚡ Fun fact: I'm enthusiastic about travel photography, capturing unique experiences worldwide !
