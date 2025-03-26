@@ -1,4 +1,10 @@
-- 👋 Hi, I’m Semi Kim, pursuing a bachelor's degree in economics and data sciences in University of Southern California (USC).
-- 👀 I’m looking for an internship with a dynamic company that will engage my diverse background and my aspiration in working in data analytic field.
-- 🌱 I’m currently learning statistical analysis and visualization skills primarily with R in my exchange semester at Sciences Po Paris.
-- ⚡ Fun fact: I'm enthusiastic about travel photography, capturing unique experiences worldwide !
+# 👋 Hi, I’m Semi Kim!  
+
+I’m an Economics and Data Science student at the University of Southern California (USC), currently on an exchange semester at Sciences Po Paris. My academic journey focuses on statistical analysis, data visualization, and leveraging data-driven insights.  
+
+- 👀 **Seeking**: An internship with a dynamic company where I can apply my analytical skills and interdisciplinary background.  
+- 🌱 **Currently Learning**: Advanced statistical analysis and data visualization with R.  
+- ⚡ **Fun Fact**: I love travel photography and capturing unique experiences from around the world!  
+
+📫 **Let's connect!**  
+[LinkedIn](www.linkedin.com/in/semi-kim-069b77262) | [Handshake]([your-portfolio-url](https://usc.joinhandshake.com/profiles/mtdv55))  
