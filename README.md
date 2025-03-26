@@ -7,4 +7,4 @@ I’m an Economics and Data Science student at the University of Southern Califo
 - ⚡ **Fun Fact**: I love travel photography and capturing unique experiences from around the world!  
 
 📫 **Let's connect!**  
-[LinkedIn](www.linkedin.com/in/semi-kim-069b77262) | [Handshake]([your-portfolio-url](https://usc.joinhandshake.com/profiles/mtdv55))  
+[LinkedIn](www.linkedin.com/in/semi-kim-069b77262) | [Handshake](https://usc.joinhandshake.com/profiles/mtdv55)  
